@@ -1,0 +1,30 @@
+-------- d6 --------
+Average HP:             63 
+Average rolled HP:      72.51 
+Better to use average:  33.34 % 
+Better to use rolled:   50.03 % 
+Doesn't matter:         16.63 %
+
+
+-------- d8 --------
+Average HP:             84 
+Average rolled HP:      74.45 
+Better to use average:  50.09 % 
+Better to use rolled:   33.27 % 
+Doesn't matter:         16.64 %
+
+
+-------- d10 --------
+Average HP:             105 
+Average rolled HP:      76.5 
+Better to use average:  66.66 % 
+Better to use rolled:   16.68 % 
+Doesn't matter:         16.66 %
+
+
+-------- d12 --------
+Average HP:             126 
+Average rolled HP:      78.54 
+Better to use average:  83.28 % 
+Better to use rolled:   0.0 % 
+Doesn't matter:         16.72 %
