@@ -7,7 +7,7 @@ def calculate_hit_dice_average(lvl, dice):
     return average_hp
 
 def calculate_hit_dice_rolled(lvl, dice):
-    rolled_hp = dice + (random.randint(1,6) * (lvl-1))
+    rolled_hp = dice + (random.randint(1, dice) * (lvl-1))
 
     return rolled_hp
 
