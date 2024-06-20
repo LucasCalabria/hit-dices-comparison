@@ -2,7 +2,7 @@ import math, random
 
 
 def calculate_hit_dice_average(lvl, dice):
-    average_hp = dice + (math.ceil(dice / 2) * (lvl - 1))
+    average_hp = dice + (math.ceil((dice / 2) + 0.5) * (lvl - 1))
 
     return average_hp
 
